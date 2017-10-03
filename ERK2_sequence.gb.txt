@@ -1,0 +1,537 @@
+LOCUS       NM_002745               5916 bp    mRNA    linear   PRI 15-SEP-2017
+DEFINITION  Homo sapiens mitogen-activated protein kinase 1 (MAPK1), transcript
+            variant 1, mRNA.
+ACCESSION   NM_002745
+VERSION     NM_002745.4
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5916)
+  AUTHORS   Schmidt J, Ramis-Zaldivar JE, Nadeu F, Gonzalez-Farre B, Navarro A,
+            Egan C, Montes-Mojarro IA, Marafioti T, Cabecadas J, van der Walt
+            J, Dojcinov S, Rosenwald A, Ott G, Bonzheim I, Fend F, Campo E,
+            Jaffe ES, Salaverria I and Quintanilla-Martinez L.
+  TITLE     Mutations of MAP2K1 are frequent in pediatric-type follicular
+            lymphoma and result in ERK pathway activation
+  JOURNAL   Blood 130 (3), 323-327 (2017)
+   PUBMED   28533310
+  REMARK    GeneRIF: Mutations of MAP2K1 are frequent in pediatric-type
+            follicular lymphoma and result in ERK1/ERK2 pathway activation.
+REFERENCE   2  (bases 1 to 5916)
+  AUTHORS   Sun Q, Liang Y, Zhang T, Wang K and Yang X.
+  TITLE     ER-alpha36 mediates estrogen-stimulated MAPK/ERK activation and
+            regulates migration, invasion, proliferation in cervical cancer
+            cells
+  JOURNAL   Biochem. Biophys. Res. Commun. 487 (3), 625-632 (2017)
+   PUBMED   28435071
+  REMARK    GeneRIF: ER-alpha36 is localized on the plasma membrane and
+            cytoplasm in both cervical cancer tissues and cell lines.
+            ER-alpha36 mediates estrogen-stimulated MAPK/ERK activation and
+            regulates migration, invasion, proliferation in cervical cancer
+            cells.
+REFERENCE   3  (bases 1 to 5916)
+  AUTHORS   Bardwell AJ, Lagunes L, Zebarjedi R and Bardwell L.
+  TITLE     The WW domain of the scaffolding protein IQGAP1 is neither
+            necessary nor sufficient for binding to the MAPKs ERK1 and ERK2
+  JOURNAL   J. Biol. Chem. 292 (21), 8750-8761 (2017)
+   PUBMED   28396345
+  REMARK    GeneRIF: IQ domain of IQGAP1 is both necessary and sufficient for
+            binding to ERK1 and ERK2, as well as to the MAPK kinases MEK1 and
+            MEK2.
+REFERENCE   4  (bases 1 to 5916)
+  AUTHORS   Teixeira FR, Manfiolli AO, Vieira NA, Medeiros AC, Coelho PO,
+            Santiago Guimaraes D, Schechtman D and Gomes MD.
+  TITLE     FBXO25 regulates MAPK signaling pathway through inhibition of
+            ERK1/2 phosphorylation
+  JOURNAL   Arch. Biochem. Biophys. 621, 38-45 (2017)
+   PUBMED   28389297
+  REMARK    GeneRIF: Taken together we show that FBXO25 functions as a negative
+            regulator of MAPK signaling though the reduction of ERK1/2
+            activation.
+REFERENCE   5  (bases 1 to 5916)
+  AUTHORS   Li W, Liang J, Zhang Z, Lou H, Zhao L, Xu Y and Ou R.
+  TITLE     MicroRNA-329-3p targets MAPK1 to suppress cell proliferation,
+            migration and invasion in cervical cancer
+  JOURNAL   Oncol. Rep. 37 (5), 2743-2750 (2017)
+   PUBMED   28393232
+  REMARK    GeneRIF: MicroRNA-329-3p targets MAPK1 to suppress cell
+            proliferation, migration and invasion in cervical cancer.
+REFERENCE   6  (bases 1 to 5916)
+  AUTHORS   Hu S, Xie Z, Onishi A, Yu X, Jiang L, Lin J, Rho HS, Woodard C,
+            Wang H, Jeong JS, Long S, He X, Wade H, Blackshaw S, Qian J and Zhu
+            H.
+  TITLE     Profiling the human protein-DNA interactome reveals ERK2 as a
+            transcriptional repressor of interferon signaling
+  JOURNAL   Cell 139 (3), 610-622 (2009)
+   PUBMED   19879846
+  REMARK    GeneRIF: ERK2 acts as a transcriptional repressor for interferon
+            gamma-induced genes.
+REFERENCE   7  (bases 1 to 5916)
+  AUTHORS   Goedert M, Cohen ES, Jakes R and Cohen P.
+  TITLE     p42 MAP kinase phosphorylation sites in microtubule-associated
+            protein tau are dephosphorylated by protein phosphatase 2A1.
+            Implications for Alzheimer's disease [corrected]
+  JOURNAL   FEBS Lett. 312 (1), 95-99 (1992)
+   PUBMED   1330687
+  REMARK    Erratum:[FEBS Lett 1992 Nov 23;313(2):203]
+REFERENCE   8  (bases 1 to 5916)
+  AUTHORS   Rossomando AJ, Wu J, Michel H, Shabanowitz J, Hunt DF, Weber MJ and
+            Sturgill TW.
+  TITLE     Identification of Tyr-185 as the site of tyrosine
+            autophosphorylation of recombinant mitogen-activated protein kinase
+            p42mapk
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (13), 5779-5783 (1992)
+   PUBMED   1378617
+REFERENCE   9  (bases 1 to 5916)
+  AUTHORS   Gonzalez FA, Raden DL, Rigby MR and Davis RJ.
+  TITLE     Heterogeneous expression of four MAP kinase isoforms in human
+            tissues
+  JOURNAL   FEBS Lett. 304 (2-3), 170-178 (1992)
+   PUBMED   1319925
+REFERENCE   10 (bases 1 to 5916)
+  AUTHORS   Owaki H, Makar R, Boulton TG, Cobb MH and Geppert TD.
+  TITLE     Extracellular signal-regulated kinases in T cells: characterization
+            of human ERK1 and ERK2 cDNAs
+  JOURNAL   Biochem. Biophys. Res. Commun. 182 (3), 1416-1422 (1992)
+   PUBMED   1540184
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC017832.1, BC099905.1,
+            AP000555.1, AP000554.1 and AP000553.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Sep 15, 2005 this sequence version replaced gi:66932915.
+            
+            Summary: This gene encodes a member of the MAP kinase family. MAP
+            kinases, also known as extracellular signal-regulated kinases
+            (ERKs), act as an integration point for multiple biochemical
+            signals, and are involved in a wide variety of cellular processes
+            such as proliferation, differentiation, transcription regulation
+            and development. The activation of this kinase requires its
+            phosphorylation by upstream kinases. Upon activation, this kinase
+            translocates to the nucleus of the stimulated cells, where it
+            phosphorylates nuclear targets. One study also suggests that this
+            protein acts as a transcriptional repressor independent of its
+            kinase activity. The encoded protein has been identified as a
+            moonlighting protein based on its ability to perform
+            mechanistically distinct functions. Two alternatively spliced
+            transcript variants encoding the same protein, but differing in the
+            UTRs, have been reported for this gene. [provided by RefSeq, Jan
+            2014].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript. Both variants 1 and 2 encode the same protein.
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803612.48589.1,
+                                           SRR1803613.210649.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2467144 [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            multifunctional gene product(s) :: PMID: 19879846
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1332              BC017832.1         1-1332
+            1333-3285           BC099905.1         1298-3250
+            3286-3428           AP000555.1         587-729             c
+            3429-4827           AP000554.1         358-1756            c
+            4828-5916           AP000553.1         163858-164946       c
+FEATURES             Location/Qualifiers
+     source          1..5916
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="22"
+                     /map="22q11.22"
+     gene            1..5916
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /note="mitogen-activated protein kinase 1"
+                     /db_xref="GeneID:5594"
+                     /db_xref="HGNC:HGNC:6871"
+                     /db_xref="MIM:176948"
+     exon            1..359
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    178..180
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /note="upstream in-frame stop codon"
+     CDS             241..1323
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /EC_number="2.7.11.24"
+                     /note="protein tyrosine kinase ERK2; extracellular
+                     signal-regulated kinase 2; mitogen-activated protein
+                     kinase 2; MAPK 2; MAP kinase 1; MAP kinase 2; MAP kinase
+                     isoform p42"
+                     /codon_start=1
+                     /product="mitogen-activated protein kinase 1"
+                     /protein_id="NP_002736.3"
+                     /db_xref="CCDS:CCDS13795.1"
+                     /db_xref="GeneID:5594"
+                     /db_xref="HGNC:HGNC:6871"
+                     /db_xref="MIM:176948"
+                     /translation="MAAAAAAGAGPEMVRGQVFDVGPRYTNLSYIGEGAYGMVCSAYD
+                     NVNKVRVAIKKISPFEHQTYCQRTLREIKILLRFRHENIIGINDIIRAPTIEQMKDVY
+                     IVQDLMETDLYKLLKTQHLSNDHICYFLYQILRGLKYIHSANVLHRDLKPSNLLLNTT
+                     CDLKICDFGLARVADPDHDHTGFLTEYVATRWYRAPEIMLNSKGYTKSIDIWSVGCIL
+                     AEMLSNRPIFPGKHYLDQLNHILGILGSPSQEDLNCIINLKARNYLLSLPHKNKVPWN
+                     RLFPNADSKALDLLDKMLTFNPHKRIEVEQALAHPYLEQYYDPSDEPIAEAPFKFDME
+                     LDDLPKEKLKELIFEETARFQPGYRS"
+     misc_feature    244..246
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylalanine. {ECO:0000244|PubMed:19413330,
+                     ECO:0000244|PubMed:22223895, ECO:0000244|PubMed:22814378,
+                     ECO:0000269|PubMed:12665801}; propagated from
+                     UniProtKB/Swiss-Prot (P28482.3); acetylation site"
+     misc_feature    325..327
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by SGK1.
+                     {ECO:0000269|PubMed:19447520}; propagated from
+                     UniProtKB/Swiss-Prot (P28482.3); phosphorylation site"
+     misc_feature    553..564
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     Region: Inhibitor-binding"
+     misc_feature    697..702
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     Region: Inhibitor-binding"
+     misc_feature    781..783
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000250|UniProtKB:P27361};
+                     propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     phosphorylation site"
+     misc_feature    793..801
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     Region: TXY"
+     misc_feature    793..795
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine, by MAP2K1 and MAP2K2.
+                     {ECO:0000244|PubMed:18669648, ECO:0000244|PubMed:19690332,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     phosphorylation site"
+     misc_feature    799..801
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by MAP2K1 and MAP2K2.
+                     {ECO:0000244|PubMed:18669648, ECO:0000244|PubMed:19690332,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163,
+                     ECO:0000269|PubMed:19053285, ECO:0000269|PubMed:19494114};
+                     propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     phosphorylation site"
+     misc_feature    808..810
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine, by autocatalysis.
+                     {ECO:0000269|PubMed:19060905}; propagated from
+                     UniProtKB/Swiss-Prot (P28482.3); phosphorylation site"
+     misc_feature    976..978
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:18760948};
+                     propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     phosphorylation site"
+     misc_feature    982..984
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:18760948};
+                     propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     phosphorylation site"
+     misc_feature    1090..1092
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:19369195};
+                     propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     phosphorylation site"
+     misc_feature    1192..1206
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     Region: Cytoplasmic retention motif"
+     misc_feature    1219..1239
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P28482.3);
+                     Region: Nuclear translocation motif"
+     exon            360..542
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            543..732
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            733..849
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            850..964
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            965..1096
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1097..1206
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1147..1352
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /standard_name="Mapk1"
+                     /db_xref="UniSTS:143825"
+     exon            1207..1332
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1333..5916
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /inference="alignment:Splign:1.39.8"
+     STS             2355..3214
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /standard_name="MAPK1_V207"
+                     /db_xref="UniSTS:277477"
+     regulatory      2423..2428
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+     polyA_site      2443
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     STS             2743..3024
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /standard_name="SHGC-172572"
+                     /db_xref="UniSTS:183602"
+     regulatory      2960..2965
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+     polyA_site      2990
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     STS             3153..3255
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /standard_name="D22S1022E"
+                     /db_xref="UniSTS:150803"
+     STS             3687..3809
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /standard_name="D22S1011E"
+                     /db_xref="UniSTS:150799"
+     STS             5154..5255
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /standard_name="G30303"
+                     /db_xref="UniSTS:81521"
+     regulatory      5224..5229
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+     polyA_site      5257
+                     /gene="MAPK1"
+                     /gene_synonym="ERK; ERK-2; ERK2; ERT1; MAPK2; p38; p40;
+                     p41; p41mapk; p42-MAPK; P42MAPK; PRKM1; PRKM2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+ORIGIN      
+        1 gcccctccct ccgcccgccc gccggcccgc ccgtcagtct ggcaggcagg caggcaatcg
+       61 gtccgagtgg ctgtcggctc ttcagctctc ccgctcggcg tcttccttcc tcctcccggt
+      121 cagcgtcggc ggctgcaccg gcggcggcgc agtccctgcg ggaggggcga caagagctga
+      181 gcggcggccg ccgagcgtcg agctcagcgc ggcggaggcg gcggcggccc ggcagccaac
+      241 atggcggcgg cggcggcggc gggcgcgggc ccggagatgg tccgcgggca ggtgttcgac
+      301 gtggggccgc gctacaccaa cctctcgtac atcggcgagg gcgcctacgg catggtgtgc
+      361 tctgcttatg ataatgtcaa caaagttcga gtagctatca agaaaatcag cccctttgag
+      421 caccagacct actgccagag aaccctgagg gagataaaaa tcttactgcg cttcagacat
+      481 gagaacatca ttggaatcaa tgacattatt cgagcaccaa ccatcgagca aatgaaagat
+      541 gtatatatag tacaggacct catggaaaca gatctttaca agctcttgaa gacacaacac
+      601 ctcagcaatg accatatctg ctattttctc taccagatcc tcagagggtt aaaatatatc
+      661 cattcagcta acgttctgca ccgtgacctc aagccttcca acctgctgct caacaccacc
+      721 tgtgatctca agatctgtga ctttggcctg gcccgtgttg cagatccaga ccatgatcac
+      781 acagggttcc tgacagaata tgtggccaca cgttggtaca gggctccaga aattatgttg
+      841 aattccaagg gctacaccaa gtccattgat atttggtctg taggctgcat tctggcagaa
+      901 atgctttcta acaggcccat ctttccaggg aagcattatc ttgaccagct gaaccacatt
+      961 ttgggtattc ttggatcccc atcacaagaa gacctgaatt gtataataaa tttaaaagct
+     1021 aggaactatt tgctttctct tccacacaaa aataaggtgc catggaacag gctgttccca
+     1081 aatgctgact ccaaagctct ggacttattg gacaaaatgt tgacattcaa cccacacaag
+     1141 aggattgaag tagaacaggc tctggcccac ccatatctgg agcagtatta cgacccgagt
+     1201 gacgagccca tcgccgaagc accattcaag ttcgacatgg aattggatga cttgcctaag
+     1261 gaaaagctca aagaactaat ttttgaagag actgctagat tccagccagg atacagatct
+     1321 taaatttgtc aggacaaggg ctcagaggac tggacgtgct cagacatcgg tgttcttctt
+     1381 cccagttctt gacccctggt cctgtctcca gcccgtcttg gcttatccac tttgactcct
+     1441 ttgagccgtt tggaggggcg gtttctggta gttgtggctt ttatgctttc aaagaatttc
+     1501 ttcagtccag agaattcctc ctggcagccc tgtgtgtgtc acccattggt gacctgcggc
+     1561 agtatgtact tcagtgcacc tactgcttac tgttgcttta gtcactaatt gctttctggt
+     1621 ttgaaagatg cagtggttcc tccctctcct gaatcctttt ctacatgatg ccctgctgac
+     1681 catgcagccg caccagagag agattcttcc ccaattggct ctagtcactg gcatctcact
+     1741 ttatgatagg gaaggctact acctagggca ctttaagtca gtgacagccc cttatttgca
+     1801 cttcaccttt tgaccataac tgtttcccca gagcaggagc ttgtggaaat accttggctg
+     1861 atgttgcagc ctgcagcaag tgcttccgtc tccggaatcc ttggggagca cttgtccacg
+     1921 tcttttctca tatcatggta gtcactaaca tatataaggt atgtgctatt ggcccagctt
+     1981 ttagaaaatg cagtcatttt tctaaataaa aaggaagtac tgcacccagc agtgtcactc
+     2041 tgtagttact gtggtcactt gtaccatata gaggtgtaac acttgtcaag aagcgttatg
+     2101 tgcagtactt aatgtttgta agacttacaa aaaaagattt aaagtggcag cttcactcga
+     2161 catttggtga gagaagtaca aaggttgcag tgctgagctg tgggcggttt ctggggatgt
+     2221 cccagggtgg aactccacat gctggtgcat atacgccctt gagctacttc aaatgtgggt
+     2281 gtttcagtaa ccacgttcca tgcctgagga tttagcagag aggaacactg cgtctttaaa
+     2341 tgagaaagta tacaattctt tttccttcta cagcatgtca gcatctcaag ttcatttttc
+     2401 aacctacagt ataacaattt gtaataaagc ctccaggagc tcatgacgtg aagcactgtt
+     2461 ctgtcctcaa gtactcaaat atttctgata ctgctgagtc agactgtcag aaaaagctag
+     2521 cactaactcg tgtttggagc tctatccata ttttactgat ctctttaagt atttgttcct
+     2581 gccactgtgt actgtggagt tgactcggtg ttctgtccca gtgcggtgcc tcctcttgac
+     2641 ttccccactg ctctctgtgg tgagaaattt gccttgttca ataattactg taccctcgca
+     2701 tgactgttac agctttctgt gcagagatga ctgtccaagt gccacatgcc tacgattgaa
+     2761 atgaaaactc tattgttacc tctgagttgt gttccacgga aaatgctatc cagcagatca
+     2821 tttaggaaaa ataattctat ttttagcttt tcatttctca gctgtccttt tttcttgttt
+     2881 gatttttgac agcaatggag aatgggttat ataaagactg cctgctaata tgaacagaaa
+     2941 tgcatttgta attcatgaaa ataaatgtac atcttctatc ttcacattca tgttaagatt
+     3001 cagtgttgct ttcctctgga tcagcgtgtc tgaatggaca gtcaggttca ggttgtgctg
+     3061 aacacagaaa tgctcacagg cctcactttg ccgcccaggc actggcccag cacttggatt
+     3121 tacataagat gagttagaaa ggtacttctg tagggtcctt tttacctctg ctcggcagag
+     3181 aatcgatgct gtcatgttcc tttattcaca atcttaggtc tcaaatattc tgtcaaaccc
+     3241 taacaaagaa gccccgacat ctcaggttgg attccctggt tctctctaaa gagggcctgc
+     3301 ccttgtgccc cagaggtgct gctgggcaca gccaagagtt gggaagggcc gccccacagt
+     3361 acgcagtcct caccacccag cccagggtgc tcacgctcac cactcctgtg gctgaggaag
+     3421 gatagctggc tcatcctcgg aaaacagacc cacatctcta ttcttgccct gaaatacgcg
+     3481 cttttcactt gcgtgctcag agctgccgtc tgaaggtcca cacagcattg acgggacaca
+     3541 gaaatgtgac tgttaccgga taacactgat tagtcagttt tcatttataa aaaagcattg
+     3601 acagttttat tactcttgtt tctttttaaa tggaaagtta ctattataag gttaatttgg
+     3661 agtcctcttc taaatagaaa accatatcct tggctactaa catctggaga ctgtgagctc
+     3721 cttcccattc cccttcctgg tactgtggag tcagattggc atgaaaccac taacttcatt
+     3781 ctagaatcat tgtagccata agttgtgtgc tttttattaa tcatgccaaa cataatgtaa
+     3841 ctgggcagag aatggtccta accaaggtac ctatgaaaag cgctagctat catgtgtagt
+     3901 agatgcatca ttttggctct tcttacattt gtaaaaatgt acagattagg tcatcttaat
+     3961 tcatattagt gacacggaac agcacctcca ctatttgtat gttcaaataa gctttcagac
+     4021 taatagcttt tttggtgtct aaaatgtaag caaaaaattc ctgctgaaac attccagtcc
+     4081 tttcatttag tataaaagaa atactgaaca agccagtggg atggaattga aagaactaat
+     4141 catgaggact ctgtcctgac acaggtcctc aaagctagca gagatacgca gacattgtgg
+     4201 catctgggta gaagaatact gtattgtgtg tgcagtgcac agtgtgtggt gtgtgcacac
+     4261 tcattccttc tgctcttggg cacaggcagt gggtgtagag gtaaccagta gctttgagaa
+     4321 gctacatgta gctcaccagt ggttttctct aaggaatcac aaaagtaaac tacccaacca
+     4381 catgccacgt aatatttcag ccattcagag gaaactgttt tctctttatt tgcttatatg
+     4441 ttaatatggt ttttaaattg gtaactttta tatagtatgg taacagtatg ttaatacaca
+     4501 catacatacg cacacatgct ttgggtcctt ccataatact tttatatttg taaatcaatg
+     4561 ttttggagca atcccaagtt taagggaaat atttttgtaa atgtaatggt tttgaaaatc
+     4621 tgagcaatcc ttttgcttat acatttttaa agcatttgtg ctttaaaatt gttatgctgg
+     4681 tgtttgaaac atgatactcc tgtggtgcag atgagaagct ataacagtga atatgtggtt
+     4741 tctcttacgt catccacctt gacatgatgg gtcagaaaca aatggaaatc cagagcaagt
+     4801 cctccagggt tgcaccaggt ttacctaaag cttgttgcct tttcttgtgc tgtttatgcg
+     4861 tgtagagcac tcaagaaagt tctgaaactg ctttgtatct gctttgtact gttggtgcct
+     4921 tcttggtatt gtaccccaaa attctgcata gattatttag tataatggta agttaaaaaa
+     4981 tgttaaagga agattttatt aagaatctga atgtttattc attatattgt tacaatttaa
+     5041 cattaacatt tatttgtggt atttgtgatt tggttaatct gtataaaaat tgtaagtaga
+     5101 aaggtttata tttcatctta attcttttga tgttgtaaac gtacttttta aaagatggat
+     5161 tatttgaatg tttatggcac ctgacttgta aaaaaaaaaa actacaaaaa aatccttaga
+     5221 atcattaaat tgtgtccctg tattaccaaa ataacacagc accgtgcatg tatagtttaa
+     5281 ttgcagtttc atctgtgaaa acgtgaaatt gtctagtcct tcgttatgtt ccccagatgt
+     5341 cttccagatt tgctctgcat gtggtaactt gtgttagggc tgtgagctgt tcctcgagtt
+     5401 gaatggggat gtcagtgctc ctagggttct ccaggtggtt cttcagacct tcacctgtgg
+     5461 gggggggggt aggcggtgcc cacgcccatc tcctcatcct cctgaacttc tgcaacccca
+     5521 ctgctgggca gacatcctgg gcaacccctt ttttcagagc aagaagtcat aaagatagga
+     5581 tttcttggac atttggttct tatcaatatt gggcattatg taatgactta tttacaaaac
+     5641 aaagatactg gaaaatgttt tggatgtggt gttatggaaa gagcacaggc cttggaccca
+     5701 tccagctggg ttcagaacta ccccctgctt ataactgcgg ctggctgtgg gccagtcatt
+     5761 ctgcgtctct gctttcttcc tctgcttcag actgtcagct gtaaagtgga agcaatatta
+     5821 cttgccttgt atatggtaaa gattataaaa atacatttca actgttcagc atagtacttc
+     5881 aaagcaagta ctcagtaaat agcaagtctt tttaaa
+//
+

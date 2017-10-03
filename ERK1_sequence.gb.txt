@@ -1,0 +1,361 @@
+LOCUS       NM_002746               1902 bp    mRNA    linear   PRI 11-SEP-2017
+DEFINITION  Homo sapiens mitogen-activated protein kinase 3 (MAPK3), transcript
+            variant 1, mRNA.
+ACCESSION   NM_002746 XM_055766
+VERSION     NM_002746.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1902)
+  AUTHORS   Schmidt J, Ramis-Zaldivar JE, Nadeu F, Gonzalez-Farre B, Navarro A,
+            Egan C, Montes-Mojarro IA, Marafioti T, Cabecadas J, van der Walt
+            J, Dojcinov S, Rosenwald A, Ott G, Bonzheim I, Fend F, Campo E,
+            Jaffe ES, Salaverria I and Quintanilla-Martinez L.
+  TITLE     Mutations of MAP2K1 are frequent in pediatric-type follicular
+            lymphoma and result in ERK pathway activation
+  JOURNAL   Blood 130 (3), 323-327 (2017)
+   PUBMED   28533310
+  REMARK    GeneRIF: Mutations of MAP2K1 are frequent in pediatric-type
+            follicular lymphoma and result in ERK1/ERK2 pathway activation.
+REFERENCE   2  (bases 1 to 1902)
+  AUTHORS   Xu X, Zhao Z, Guo S, Li J, Liu S, You Y, Ni B, Wang H and Bie P.
+  TITLE     Increased semaphorin 3c expression promotes tumor growth and
+            metastasis in pancreatic ductal adenocarcinoma by activating the
+            ERK1/2 signaling pathway
+  JOURNAL   Cancer Lett. 397, 12-22 (2017)
+   PUBMED   28315433
+  REMARK    GeneRIF: Aberrant expression of sema3c is correlated with poor
+            prognosis of pancreatic ductal adenocarcinoma patients and promotes
+            tumor growth and metastasis by activating ERK1/2 signaling pathway.
+REFERENCE   3  (bases 1 to 1902)
+  AUTHORS   Bardwell AJ, Lagunes L, Zebarjedi R and Bardwell L.
+  TITLE     The WW domain of the scaffolding protein IQGAP1 is neither
+            necessary nor sufficient for binding to the MAPKs ERK1 and ERK2
+  JOURNAL   J. Biol. Chem. 292 (21), 8750-8761 (2017)
+   PUBMED   28396345
+  REMARK    GeneRIF: IQ domain of IQGAP1 is both necessary and sufficient for
+            binding to ERK1 and ERK2, as well as to the MAPK kinases MEK1 and
+            MEK2.
+REFERENCE   4  (bases 1 to 1902)
+  AUTHORS   Teixeira FR, Manfiolli AO, Vieira NA, Medeiros AC, Coelho PO,
+            Santiago Guimaraes D, Schechtman D and Gomes MD.
+  TITLE     FBXO25 regulates MAPK signaling pathway through inhibition of
+            ERK1/2 phosphorylation
+  JOURNAL   Arch. Biochem. Biophys. 621, 38-45 (2017)
+   PUBMED   28389297
+  REMARK    GeneRIF: Taken together we show that FBXO25 functions as a negative
+            regulator of MAPK signaling though the reduction of ERK1/2
+            activation.
+REFERENCE   5  (bases 1 to 1902)
+  AUTHORS   Pan CW, Jin X, Zhao Y, Pan Y, Yang J, Karnes RJ, Zhang J, Wang L
+            and Huang H.
+  TITLE     AKT-phosphorylated FOXO1 suppresses ERK activation and
+            chemoresistance by disrupting IQGAP1-MAPK interaction
+  JOURNAL   EMBO J. 36 (8), 995-1010 (2017)
+   PUBMED   28279977
+  REMARK    GeneRIF: after AKT-mediated phosphorylation at serine 319, FOXO1
+            binds to IQGAP1, a hub for activation of the MAPK pathway, and
+            impedes IQGAP1-dependent phosphorylation of ERK1/2 (pERK1/2).
+REFERENCE   6  (bases 1 to 1902)
+  AUTHORS   Guan KL and Butch E.
+  TITLE     Isolation and characterization of a novel dual specific
+            phosphatase, HVH2, which selectively dephosphorylates the
+            mitogen-activated protein kinase
+  JOURNAL   J. Biol. Chem. 270 (13), 7197-7203 (1995)
+   PUBMED   7535768
+REFERENCE   7  (bases 1 to 1902)
+  AUTHORS   Gonzalez FA, Raden DL, Rigby MR and Davis RJ.
+  TITLE     Heterogeneous expression of four MAP kinase isoforms in human
+            tissues
+  JOURNAL   FEBS Lett. 304 (2-3), 170-178 (1992)
+   PUBMED   1319925
+REFERENCE   8  (bases 1 to 1902)
+  AUTHORS   Haycock JW, Ahn NG, Cobb MH and Krebs EG.
+  TITLE     ERK1 and ERK2, two microtubule-associated protein 2 kinases,
+            mediate the phosphorylation of tyrosine hydroxylase at serine-31 in
+            situ
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (6), 2365-2369 (1992)
+   PUBMED   1347949
+REFERENCE   9  (bases 1 to 1902)
+  AUTHORS   Owaki H, Makar R, Boulton TG, Cobb MH and Geppert TD.
+  TITLE     Extracellular signal-regulated kinases in T cells: characterization
+            of human ERK1 and ERK2 cDNAs
+  JOURNAL   Biochem. Biophys. Res. Commun. 182 (3), 1416-1422 (1992)
+   PUBMED   1540184
+REFERENCE   10 (bases 1 to 1902)
+  AUTHORS   Pulverer BJ, Kyriakis JM, Avruch J, Nikolakaki E and Woodgett JR.
+  TITLE     Phosphorylation of c-jun mediated by MAP kinases
+  JOURNAL   Nature 353 (6345), 670-674 (1991)
+   PUBMED   1922387
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA351318.1, BC013992.1 and
+            AC012645.7.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Apr 10, 2006 this sequence version replaced gi:38257140.
+            
+            Summary: The protein encoded by this gene is a member of the MAP
+            kinase family. MAP kinases, also known as extracellular
+            signal-regulated kinases (ERKs), act in a signaling cascade that
+            regulates various cellular processes such as proliferation,
+            differentiation, and cell cycle progression in response to a
+            variety of extracellular signals. This kinase is activated by
+            upstream kinases, resulting in its translocation to the nucleus
+            where it phosphorylates nuclear targets. Alternatively spliced
+            transcript variants encoding different protein isoforms have been
+            described. [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) represents the most common
+            transcript and encodes isoform 1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC013992.1, SRR1163658.310020.1
+                                           [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-89                DA351318.1         1-89
+            90-1461             BC013992.1         1-1372
+            1462-1833           AC012645.7         51515-51886         c
+            1834-1902           BC013992.1         1745-1813
+FEATURES             Location/Qualifiers
+     source          1..1902
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p11.2"
+     gene            1..1902
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /note="mitogen-activated protein kinase 3"
+                     /db_xref="GeneID:5595"
+                     /db_xref="HGNC:HGNC:6877"
+                     /db_xref="MIM:601795"
+     exon            1..270
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    23..25
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /note="upstream in-frame stop codon"
+     CDS             101..1240
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /EC_number="2.7.11.24"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     extracellular signal-regulated kinase 1; extracellular
+                     signal-related kinase 1; MAPK 1; insulin-stimulated MAP2
+                     kinase; microtubule-associated protein 2 kinase; MAP
+                     kinase isoform p44"
+                     /codon_start=1
+                     /product="mitogen-activated protein kinase 3 isoform 1"
+                     /protein_id="NP_002737.2"
+                     /db_xref="CCDS:CCDS10672.1"
+                     /db_xref="GeneID:5595"
+                     /db_xref="HGNC:HGNC:6877"
+                     /db_xref="MIM:601795"
+                     /translation="MAAAAAQGGGGGEPRRTEGVGPGVPGEVEMVKGQPFDVGPRYTQ
+                     LQYIGEGAYGMVSSAYDHVRKTRVAIKKISPFEHQTYCQRTLREIQILLRFRHENVIG
+                     IRDILRASTLEAMRDVYIVQDLMETDLYKLLKSQQLSNDHICYFLYQILRGLKYIHSA
+                     NVLHRDLKPSNLLINTTCDLKICDFGLARIADPEHDHTGFLTEYVATRWYRAPEIMLN
+                     SKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQEDLNCIINMK
+                     ARNYLQSLPSKTKVAWAKLFPKSDSKALDLLDRMLTFNPNKRITVEEALAHPYLEQYY
+                     DPTDEPVAEEPFTFAMELDDLPKERLKELIFQETARFQPGVLEAP"
+     misc_feature    104..106
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylalanine. {ECO:0000244|PubMed:19413330,
+                     ECO:0000244|PubMed:22223895, ECO:0000244|PubMed:22814378,
+                     ECO:0000269|Ref.8}; propagated from UniProtKB/Swiss-Prot
+                     (P27361.4); acetylation site"
+     misc_feature    692..694
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:19369195};
+                     propagated from UniProtKB/Swiss-Prot (P27361.4);
+                     phosphorylation site"
+     misc_feature    704..712
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P27361.4);
+                     Region: TXY"
+     misc_feature    704..706
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine, by MAP2K1 and MAP2K2.
+                     {ECO:0000244|PubMed:18669648, ECO:0000244|PubMed:19690332,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P27361.4);
+                     phosphorylation site"
+     misc_feature    710..712
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by MAP2K1 and MAP2K2.
+                     {ECO:0000244|PubMed:18669648, ECO:0000244|PubMed:19690332,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163,
+                     ECO:0000269|PubMed:18983981, ECO:0000269|PubMed:19494114};
+                     propagated from UniProtKB/Swiss-Prot (P27361.4);
+                     phosphorylation site"
+     misc_feature    719..721
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine, by autocatalysis.
+                     {ECO:0000269|PubMed:19060905}; propagated from
+                     UniProtKB/Swiss-Prot (P27361.4); phosphorylation site"
+     misc_feature    887..889
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P28482};
+                     propagated from UniProtKB/Swiss-Prot (P27361.4);
+                     phosphorylation site"
+     misc_feature    893..895
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P28482};
+                     propagated from UniProtKB/Swiss-Prot (P27361.4);
+                     phosphorylation site"
+     misc_feature    1001..1003
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P28482};
+                     propagated from UniProtKB/Swiss-Prot (P27361.4);
+                     phosphorylation site"
+     exon            271..453
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /inference="alignment:Splign:1.39.8"
+     exon            454..643
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /inference="alignment:Splign:1.39.8"
+     exon            644..760
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /inference="alignment:Splign:1.39.8"
+     exon            761..875
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /inference="alignment:Splign:1.39.8"
+     exon            876..1007
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1008..1117
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1118..1272
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1273..1876
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1307..1545
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /standard_name="G15873"
+                     /db_xref="UniSTS:75694"
+     STS             1544..1711
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /standard_name="RH77963"
+                     /db_xref="UniSTS:89158"
+     STS             1668..1851
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+                     /standard_name="SHGC-61070"
+                     /db_xref="UniSTS:90564"
+     polyA_site      1876
+                     /gene="MAPK3"
+                     /gene_synonym="ERK-1; ERK1; ERT2; HS44KDAP; HUMKER1A;
+                     p44-ERK1; p44-MAPK; P44ERK1; P44MAPK; PRKM3"
+ORIGIN      
+        1 ctggcgcgcg cggccctgcg ggtgacaggc aggcgggaag gggcggggcc tcgggcgggg
+       61 ccgccgtggg gaggagggcg gtgggagggg aggagtggag atggcggcgg cggcggctca
+      121 ggggggcggg ggcggggagc cccgtagaac cgagggggtc ggcccggggg tcccggggga
+      181 ggtggagatg gtgaaggggc agccgttcga cgtgggcccg cgctacacgc agttgcagta
+      241 catcggcgag ggcgcgtacg gcatggtcag ctcggcctat gaccacgtgc gcaagactcg
+      301 cgtggccatc aagaagatca gccccttcga acatcagacc tactgccagc gcacgctccg
+      361 ggagatccag atcctgctgc gcttccgcca tgagaatgtc atcggcatcc gagacattct
+      421 gcgggcgtcc accctggaag ccatgagaga tgtctacatt gtgcaggacc tgatggagac
+      481 tgacctgtac aagttgctga aaagccagca gctgagcaat gaccatatct gctacttcct
+      541 ctaccagatc ctgcggggcc tcaagtacat ccactccgcc aacgtgctcc accgagatct
+      601 aaagccctcc aacctgctca tcaacaccac ctgcgacctt aagatttgtg atttcggcct
+      661 ggcccggatt gccgatcctg agcatgacca caccggcttc ctgacggagt atgtggctac
+      721 gcgctggtac cgggccccag agatcatgct gaactccaag ggctatacca agtccatcga
+      781 catctggtct gtgggctgca ttctggctga gatgctctct aaccggccca tcttccctgg
+      841 caagcactac ctggatcagc tcaaccacat tctgggcatc ctgggctccc catcccagga
+      901 ggacctgaat tgtatcatca acatgaaggc ccgaaactac ctacagtctc tgccctccaa
+      961 gaccaaggtg gcttgggcca agcttttccc caagtcagac tccaaagccc ttgacctgct
+     1021 ggaccggatg ttaaccttta accccaataa acggatcaca gtggaggaag cgctggctca
+     1081 cccctacctg gagcagtact atgacccgac ggatgagcca gtggccgagg agcccttcac
+     1141 cttcgccatg gagctggatg acctacctaa ggagcggctg aaggagctca tcttccagga
+     1201 gacagcacgc ttccagcccg gagtgctgga ggccccctag cccagacaga catctctgca
+     1261 ccctggggcc tggacctgcc tcctgcctgc ccctctcccg ccagactgtt agaaaatgga
+     1321 cactgtgccc agcccggacc ttggcagccc aggccggggt ggagcatggg cctggccacc
+     1381 tctctccttt gctgaggcct ccagcttcag gcaggccaag gccttctcct ccccacccgc
+     1441 cctccccacg gggcctcggg acctcaggtg gccccagttc aatctcccgc tgctgctgct
+     1501 gcgcccttac cttccccagc gtcccagtct ctggcagttc tggaatggaa gggttctggc
+     1561 tgccccaacc tgctgaaggg cagaggtgga gggtgggggg cgctgagtag ggactcaggg
+     1621 ccatgcctgc ccccctcatc tcattcaaac cccaccctag tttccctgaa ggaacattcc
+     1681 ttagtctcaa gggctagcat ccctgaggag ccaggccggg ccgaatcccc tccctgtcaa
+     1741 agctgtcact tcgcgtgccc tcgctgcttc tgtgtgtggt gagcagaagt ggagctgggg
+     1801 ggcgtggaga gcccggcgcc cctgccacct ccctgacccg tctaatatat aaatatagag
+     1861 atgtgtctat ggctgaaaaa aaaaaaaaaa aaaaaaaaaa aa
+//
+
