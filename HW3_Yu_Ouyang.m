@@ -1,3 +1,13 @@
+% GB comments
+1.	100
+2a. 30 Code doesn’t read in data correctly and you didn’t calculate fraction of shared base pair 
+2b. 30 No calculations 
+2c. 30 No calculations
+3a 100 
+3b. 100
+3c. 100  	
+Overall: 70
+
 %HW3
 
 %% Problem 1 - Smith-Waterman alignment
